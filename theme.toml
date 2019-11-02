@@ -1,0 +1,5 @@
+name = "ChirpStack.io Docs"
+homepage = "https://www.chirpstack.io/"
+tags = []
+features = []
+min_version = "0.41"
