@@ -151,7 +151,8 @@ table tbody tr td {
 }
 
 .highlight .chroma {
-    border-left: 1px solid rgba(0, 0, 0, 0.05);
     padding: 10px;
-    background: rgba(0, 0, 0, 0.01);
+    background-color: #f6f6f5;
+    border-radius: 4px;
+    border-left: 4px solid #2196f3;
 }
